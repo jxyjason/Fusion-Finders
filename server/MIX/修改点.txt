@@ -1,0 +1,6 @@
+将2D-TAN-onevid文件夹中所有内容内容放到MIX文件夹
+将LAVT一整个文件夹放到MIX文件夹
+在moment文件夹中放app和修改后的test
+在LAVT文件夹中放修改后的demo_inference
+运行app.py
+**要注意，运行后给出的端口号点击，用浏览器打开后显示的ip既是前端要连接的ip**
